@@ -54,7 +54,7 @@ fanart_pesquisar = ''
 #### Descrição Pesquisa
 desc_pesquisa = 'Pesquise por filme'
 ## MENU CONFIGURAÇÕES
-menu_configuracoes = "[B][COLOR azure]CONFIGURAÇÕES[/COLOR][/B]"
+menu_configuracoes = "[B][COLOR blue]CONFIGURAÇÕES[/COLOR][/B]"
 thumb_icon_config = 'https://archive.org/download/3-20211109-073854-0002/3_20211109_073854_0002.png'
 desc_configuracoes = "Configurações"
 ## FAVORITOS

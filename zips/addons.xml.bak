@@ -31,20 +31,6 @@
     </assets>
 </extension>
 </addon>
-LOR] Em desenvovimento [COLOR blue]l[/COLOR]
-[COLOR blue]l[/COLOR] Só Conteudos em FHD [COLOR blue]l[/COLOR]
-
-[B][COLOR blue]l[/COLOR][COLOR blue]prime[/COLOR][B][COLOR white]video[/COLOR][/B][B][COLOR blue]l[/COLOR][/B]</news>
-        <platform>all</platform>
-        <assets>
-            <icon>icon.png</icon>
-            <fanart>fanart.jpg</fanart>
-            <screenshot>resources/screenshots/1.jpg</screenshot>
-            <screenshot>resources/screenshots/2.jpg</screenshot>
-            <screenshot>resources/screenshots/3.jpg</screenshot>
-        </assets>
-    </extension>
-<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <addon id="plugin.video.primevideo" name="[COLOR blue]prime[/COLOR][B][COLOR white]video[/COLOR][/B]" version="1.0" provider-name="[COLOR white] by [/COLOR] [COLOR blue][B]ADELVAN[/B][/COLOR]"> 
 <requires>
     <import addon="xbmc.python" version="3.0.0"/>
@@ -56,7 +42,7 @@ LOR] Em desenvovimento [COLOR blue]l[/COLOR]
 	<provides>video</provides>
 </extension>
 
-<extension point="xbmc.addon.repository" name="[COLOR blue]prime[/COLOR][B][COLOR white]video REPO[/COLOR][/B]">
+<extension point="xbmc.addon.repository" name="[COLOR blue]prime[/COLOR][B][COLOR white]video REPO MATRIX[/COLOR][/B]">
 	<info compressed="false"></info>
 	<checksum></checksum>
     <datadir zip="true"></datadir>
@@ -88,5 +74,4 @@ LOR] Em desenvovimento [COLOR blue]l[/COLOR]
         </assets>
     </extension>
 </addon>
-
 </addons>

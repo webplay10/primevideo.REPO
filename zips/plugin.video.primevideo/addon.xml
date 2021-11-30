@@ -9,13 +9,11 @@
 <extension point="xbmc.python.pluginsource" library="default.py">
 	<provides>video</provides>
 </extension>
-
 <extension point="xbmc.addon.repository" name="[COLOR blue]prime[/COLOR][B][COLOR white]video REPO[/COLOR][/B]">
 		<info compressed="false">https://raw.githubusercontent.com/webplay10/primevideo.REPO/master/zips/addons.xml</info>
 		<checksum>https://raw.githubusercontent.com/webplay10/primevideo.REPO/master/addons.xml.md5</checksum>
 		<datadir zip="true">https://raw.githubusercontent.com/webplay10/primevideo.REPO/master/zips/</datadir>
 </extension>
-
 <extension point="xbmc.addon.metadata">
 <summary lang="en">[COLOR blue]Sobre:[/COLOR]</summary>
         <description lang="en">[COLOR blue]l[/COLOR] FILMES [COLOR blue]l[/COLOR] SERIES [COLOR blue]l[/COLOR] KIDS [COLOR blue]l[/COLOR] ANIMES [COLOR blue]l[/COLOR] LANCAMENTOS [COLOR blue]l[/COLOR] HD [COLOR blue]l[/COLOR] FHD [COLOR blue]l[/COLOR]
